@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/raj-reshav/DSA/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/raj-reshav/DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/raj-reshav/DSA/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/raj-reshav/DSA/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
