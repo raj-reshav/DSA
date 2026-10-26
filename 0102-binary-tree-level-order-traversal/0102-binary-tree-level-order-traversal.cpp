@@ -16,7 +16,6 @@ public:
         queue<TreeNode*> q;
         if(root==NULL){return ans;}
         q.push(root);
-
         while(!q.empty()){
             int size=q.size();
             vector<int> lvl;
