@@ -30,7 +30,6 @@ public:
             if (sign * ans < INT_MIN) {
                 return INT_MIN;
             }
-
             i++;
         }
 
