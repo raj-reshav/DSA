@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/raj-reshav/DSA/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/raj-reshav/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/raj-reshav/DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/raj-reshav/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/raj-reshav/DSA/tree/master/0268-missing-number) |
 ## Binary Search
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/raj-reshav/DSA/tree/master/0013-roman-to-integer) |
 | [1021-remove-outermost-parentheses](https://github.com/raj-reshav/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raj-reshav/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
