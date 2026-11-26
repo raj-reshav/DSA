@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/raj-reshav/DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/raj-reshav/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/raj-reshav/DSA/tree/master/0268-missing-number) |
+| [3360-stone-removal-game](https://github.com/raj-reshav/DSA/tree/master/3360-stone-removal-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/raj-reshav/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/raj-reshav/DSA/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/raj-reshav/DSA/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
