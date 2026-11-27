@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/raj-reshav/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raj-reshav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/raj-reshav/DSA/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raj-reshav/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/raj-reshav/DSA/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/raj-reshav/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/raj-reshav/DSA/tree/master/1929-concatenation-of-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/raj-reshav/DSA/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/raj-reshav/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/raj-reshav/DSA/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raj-reshav/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/raj-reshav/DSA/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/raj-reshav/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/raj-reshav/DSA/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raj-reshav/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/raj-reshav/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/raj-reshav/DSA/tree/master/1929-concatenation-of-array) |
 | [3360-stone-removal-game](https://github.com/raj-reshav/DSA/tree/master/3360-stone-removal-game) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raj-reshav/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
