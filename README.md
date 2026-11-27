@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/raj-reshav/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raj-reshav/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/raj-reshav/DSA/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/raj-reshav/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raj-reshav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/raj-reshav/DSA/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/raj-reshav/DSA/tree/master/1920-build-array-from-permutation) |
